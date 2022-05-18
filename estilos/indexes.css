@@ -1,0 +1,312 @@
+
+.principio{
+    position: absolute;
+    left: 6px;
+    width: 99%;
+    height: 40px;
+    background: blueviolet;
+}
+
+.pcentro{
+position: relative;
+left: 40%;
+top: 5px;
+width: 400px;
+height: 40px;
+
+}
+
+.navbar a {
+color: black;
+    position: relative;
+    font-size: 1.5rem;
+    margin-left: 1rem;
+    font-style: oblique;
+    top: 0px;
+    list-style: none;
+text-decoration: none;
+}
+
+.cambiarf:hover {
+  color: rgb(11, 11, 164);
+}
+.cambiary:hover {
+  color: rgb(186, 9, 45);
+}
+.cambiart:hover {
+  color: rgb(27, 159, 207);
+}
+.cambiari:hover {
+  color: rgb(231, 102, 85);
+}
+
+.redes{
+    position: relative;
+    top: 40px;
+    height: 90px;
+    width: 100%;
+    --b: #e3f1f6;
+    --ble: #82888b;
+    --degradado: linear-gradient(90deg, var(--ble), var(--b));
+   background:  var(--degradado) ;
+}
+
+.logo{
+    position: absolute;
+    top: 10px;
+    left: 40px;
+    height: 60px;
+    width: 80px; 
+      
+}
+
+.icredes{
+    position: absolute;
+    top: 0px;
+    left: 75%;
+    height: 90px;
+    width: 330px; 
+    
+}
+
+.icredes .cambiar :hover{
+color: #093eb2;
+cursor: pointer;
+}
+.redsocial1{
+  position: absolute;
+ 
+  top: 0px;
+  left: 10px;
+  height: 90px;
+  width: 65px;
+
+}
+.redsocial2{
+    position: absolute;
+   
+    top: 0px;
+    left: 90px;
+    height: 90px;
+    width: 65px;
+  }
+  .redsocial3{
+    position: absolute;
+  
+    top: 0px; 
+    left: 170px;  
+    width: 65px;
+    height: 90px;
+   
+  }
+  .redsocial4{
+    position: absolute;
+ 
+    top: 0px; 
+    left: 250px;  
+    width: 65px;
+    height: 90px;
+    
+  }
+
+
+  .icredes img{
+top: 20%;
+left: 20%;
+position: absolute;
+  }
+
+  .icredes a{
+      position: absolute;
+      top: 60px;
+      left: 10%;
+      text-decoration: none;
+      font-style: inherit;
+      color: black;
+     
+  }
+
+  .barra{
+    position: relative;
+    top: 40px;
+    height: 20px;
+    width: 100%;
+    --b: #093eb2;
+    --ble: #0ba9cc;
+    --degradado: linear-gradient(90deg, var(--ble), var(--b));
+    background: var(--degradado);
+  }
+
+  .barraitem{
+    position: absolute;
+    left: 85%;
+    top: 0px;
+    height: 20px;
+    width: 15%; 
+  }
+
+
+  .barra a{
+    font-size: 1rem;
+    color: rgb(36, 203, 219);
+  }
+
+  .imagen{
+    position: relative;  
+    top: 40px;
+    left: 0px;
+    height: 250px;
+    width: 100%;
+    background: red;
+  }
+
+  .ingingles1{
+    position: absolute;
+    height: 250px;
+    width: 20%;
+    left: 0px;
+  }
+
+  .ingingles2{
+    position: absolute;
+    height: 250px;
+    width: 20%;
+    left: 266px;
+  }
+
+  .ingingles3{
+    position: absolute;
+    height: 250px;
+    width: 20%;
+    left: 532px;
+  }
+
+  .ingingles4{
+    position: absolute;
+    height: 250px;
+    width: 20%;
+    left: 799px;
+  }
+
+  .ingingles5{
+    position: absolute;
+    height: 250px;
+    width: 20%;
+    left: 1066px;
+  }
+
+.menucursos{
+position: relative;
+background: #0ba9cc;
+top: 40px;
+height: 300px;
+width: 100%;
+  }
+
+.logocur{
+position: absolute;
+height: 50px;
+width: 60px;
+background: #d8e7ef;
+left: 40%;
+top: 10px;
+} 
+.logocur img{
+  width: 60px;
+  height: 50px;
+}
+.curof{
+  position: absolute;
+  left: 45%;
+  top: 10px;
+  width: 210px;
+  height: 40px;
+}
+.curof h3{
+position: absolute;
+top: 0px;
+left: 0px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.curso1{
+  position: absolute;
+  top: 85px;
+  left: 15%;
+  height: 150px;
+  width: 160px;
+  background: red;
+}
+.curso1 img{
+  position: absolute;
+ top: 0px;
+left: 30px;
+}
+
+.costo{
+  position: relative;
+  top: 90px;
+  left: 30%;
+}
+
+.pcosto{
+  position: relative;
+  top: 70%;
+  left: 20%;
+  text-decoration: none;
+  color: antiquewhite;
+}
+.curso2{
+  position: absolute;
+  top: 85px;
+  left: 30%;
+  height: 150px;
+  width: 160px;
+  background: rgb(29, 66, 218);
+}
+.curso2 img{
+  position: absolute;
+ top: 0px;
+left: 30px;
+}
+
+.curso3{
+  position: absolute;
+  top: 85px;
+  left:45%;
+  height: 150px;
+  width: 160px;
+  background: rgb(8, 137, 85);
+}
+.curso3 img{
+  position: absolute;
+ top: 0px;
+left: 30px;
+}
+.curso4{
+  position: absolute;
+  top: 85px;
+  left: 60%;
+  height: 150px;
+  width: 160px;
+  background: rgb(8, 137, 85);
+}
+.curso4 img{
+  position: absolute;
+ top: 0px;
+left: 30px;
+}
+.curso5{
+  position: absolute;
+  top: 85px;
+  left: 75%;
+  height: 150px;
+  width: 160px;
+  background: rgb(8, 137, 85);
+}
+.curso5 img{
+  position: absolute;
+ top: 0px;
+left: 30px;
+}
+
